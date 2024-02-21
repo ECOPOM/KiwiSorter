@@ -1,4 +1,4 @@
-cff-version: 0.0.0
+cff-version: 0.1.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Piani"
@@ -20,8 +20,8 @@ authors:
     given-names: "Luigi"
     orcid: "https://orcid.org/0000-0003-4776-0608"
 title: "KiwiSorter"
-version: 0.0.0
+version: 0.1.0
 doi: ""
-date-released: 2023-11-29
+date-released: 2024-02-21
 url: "https://github.com/ECOPOM/KiwiSorter"
 type: "software"
